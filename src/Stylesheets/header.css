@@ -1,0 +1,26 @@
+#hederCnt{
+    position: static;
+}
+
+#brandName{
+    font-size: 23px;
+    margin-right: 60px;
+}
+
+#headerModules a{
+    font-size: 17px;
+    margin-right: 30px;
+}
+
+#cartbtn{
+    margin-right: 40px;
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(108,9,121,1) 0%, rgba(2,0,36,1) 100%);
+    color: aliceblue;
+    
+}
+
+#cartbtn img{
+    margin-right:15px;
+    border-radius: 3px;
+}

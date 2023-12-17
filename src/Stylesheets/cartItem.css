@@ -1,0 +1,15 @@
+.prdQuantityInp {
+    width: 65px; 
+    border-radius: 4px; 
+    border: 1px solid lightgray; 
+    padding: 3px; 
+    margin-left: 3px;
+  }
+
+  .cart-product-title{
+    font-weight: 600;
+  }
+
+  .cart-product-rating{
+    font-size: larger;
+  }
